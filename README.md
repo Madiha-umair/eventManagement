@@ -15,8 +15,13 @@ A few notes regarding the CMS:
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Filezilla](https://filezilla-project.org/) (or any FTP program)
 
-Full tutorial URL: https://codeadam.ca/learning/php-cms.html
+Tutorial: https://codeadam.ca/learning/php-cms.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
+
+- Update project file on Filezilla in htdocs
+- Infifnity free click on the project---http://madiha.rf.gd/php-cms-main
+- For admin use email : email@address.com and password
+- http://madiha.rf.gd/php-cms-main/admin/dashboard.php
